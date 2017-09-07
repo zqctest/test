@@ -34,7 +34,7 @@ Please change password after first login!
 
 Username : admin
 
-Password : admin
+Password : Abcd1234
 
 ## Mailing list
 
@@ -53,9 +53,6 @@ cesi-devel@googlegroups.com
 ![Showall](https://github.com/zqctest/test/blob/master/screenshots/image1)
 
 ## Blog
-
-[Usage][2]
-
 
 [1]: http://supervisord.org/
 
