@@ -12,7 +12,7 @@ cesi is a web interface provides manage [supervizors][1] from same interface.
 
     $sudo apt-get install sqlite3 python python-flask
 
-    $git clone https://github.com/Gamegos/cesi
+    $git clone https://github.com/zqctest/test
 
     $cd cesi
 
@@ -45,10 +45,10 @@ cesi-devel@googlegroups.com
 
 ## Screenshots
 
-![Dashboard](https://github.com/GulsahKose/cesi/blob/master/screenshots/image2)
+![Dashboard](https://github.com/zqctest/test/blob/master/screenshots/image2)
 
 
-![Showall](https://github.com/GulsahKose/cesi/blob/master/screenshots/image1)
+![Showall](https://github.com/zqctest/test/blob/master/screenshots/image1)
 
 ## Blog
 
@@ -56,4 +56,4 @@ cesi-devel@googlegroups.com
 
 
 [1]: http://supervisord.org/
-[2]: http://www.gulsahkose.com/2014/09/cesi-centralized-supervisor-interface.html
+
