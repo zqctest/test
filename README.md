@@ -38,6 +38,8 @@ Password : admin
 
 ## Mailing list
 
+zqc0512@gmail.com
+
 cesi-commit@googlegroups.com
 
 cesi-devel@googlegroups.com
